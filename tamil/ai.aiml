@@ -1,0 +1,48 @@
+<aiml>
+
+
+
+
+<category>
+<pattern>VANNAKAM *</pattern>
+<template>Vannakam.</template>
+</category>
+
+
+<category>
+<pattern>ENNA PANNURA *</pattern>
+<template><random>
+<li>Vetti than nee</li>
+<li>Unga kooda pesitu irukkan</li>
+<li>Enna train pannitu irukkan</li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern>TAMIL TERIUMA *</pattern>
+<template>Terium konjam, ipo than tamil learn pannitu irukkan,innum konjam nall agum complete panna,athuku aprom paru mass than </template>
+</category>
+
+<category>
+<pattern>OHHO APADIYA</pattern>
+<template>
+<random>
+<li>Apadithan</li>
+<li>Ama</li>
+<li>athu apadiey illa ohho apadieyaaaaaa</li>
+</random>
+</template>
+</category>
+
+
+
+<category>
+<pattern>INNKI EVE ENGAYAVATHU RAID POLAMA *</pattern>
+<template>Polam STIVA CARS la book pannu.intha number:7338958063</template>
+</category>
+
+
+
+</aiml>
